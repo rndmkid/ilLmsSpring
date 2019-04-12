@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.st.lmssql.service.*;
-import com.st.lmssql.models.*;
+import com.st.lms.models.*;
+import com.st.lms.service.*;
 
 
 @RestController
